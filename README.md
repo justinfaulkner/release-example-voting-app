@@ -4,3 +4,4 @@ To run this application in Release, fork this repository and select it when you 
 
 For more information visit: https://docs.releaseapp.io
 test
+test2
