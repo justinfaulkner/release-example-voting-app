@@ -6,3 +6,4 @@ For more information visit: https://docs.releaseapp.io
 test
 test2
 test 3
+test 4
